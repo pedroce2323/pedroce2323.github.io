@@ -1,0 +1,106 @@
+.jumbotron {
+    background-image: url(red-sky-sunset-horizon-scenic-beach.jpeg);
+    background-size: cover;
+    font-family: 'Bangers', cursive;
+}
+
+.jumbotron h1, p {
+    color: white;
+    padding-left: 25px;
+}
+
+.jumbotron .btn {
+    margin-left: 25px;
+}
+
+.navbar img {
+    height: 30px;
+    width:  60px;
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+#leaderheader {
+    margin-top: 15px;
+}
+
+#contodd {
+    padding-top: 40px;
+    background-color: lightgrey;
+}
+
+#conteven {
+    padding-top: 40px;
+    background-color: whitesmoke;
+}
+
+#contodd h3 {
+    padding-top: 25px;
+    font-size: 2vw;
+}
+
+#conteven h3 {
+    padding-top: 25px;
+    font-size: 2vw;
+}
+
+.icon {
+   text-align: center;
+}
+
+#questionform {
+    margin: 25px;
+}
+
+.form-group {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.form-check {
+    font-weight: lighter;
+}
+
+input[name=question] {
+    padding: 70px;
+}
+
+#whyJamaica p {
+    color: black;
+}
+
+#group img {
+    height: 375px;
+    width: 533px;
+}
+
+#group {
+    margin-top: 30px;
+    background-color: lightskyblue;
+}
+
+#group h2 a {
+    font-size: 150px;
+    padding-left: 20px;
+    color: black;
+}
+
+#bottomline {
+    margin: 40px;
+    text-align: center;
+}
+
+#bottomline p {
+    color: slategray;
+}
+
+table {
+    text-align: center;
+}
