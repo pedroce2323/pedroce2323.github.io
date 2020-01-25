@@ -47,12 +47,14 @@ img {
 
 #contodd h3 {
     padding-top: 25px;
-    font-size: 2vw;
+    padding-bottom: 25px;
+    font-size: x-large;
 }
 
 #conteven h3 {
     padding-top: 25px;
-    font-size: 2vw;
+    padding-bottom: 25px;
+    font-size: x-large;
 }
 
 .icon {
