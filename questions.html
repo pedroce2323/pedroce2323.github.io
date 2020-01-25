@@ -55,7 +55,7 @@
             </div>
 
             <div class="form-group">
-                <label for="full_name_input">Email</label>
+                <label for="email_input">Email</label>
                 <input type="text" name="email" class=form-control>
             </div>
 
@@ -103,11 +103,17 @@
                       I'm a JV
                     </label>
                   </div>
+
                   <div class="form-group">
-                    <label for="">Please Enter Your Question</label>
-                    <input type="text" name="question" class="form-control">
+                    <label for="question_input">Please Enter Your Question</label>
+                    <!-- <input type="text" name="full_name" class=form-control id="full_name_input"> -->
+                    <!-- <textarea type="text" name="question" class="form-control"> -->
+                    <div>
+                      <textarea name="question" id="question_input" cols="250" rows="3" class="form-control"></textarea>
+                    </div>
                 </div>
             </div> 
+           
 
             <button class="btn btn-success"> 
                 Submit
