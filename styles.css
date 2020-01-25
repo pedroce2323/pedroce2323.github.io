@@ -87,10 +87,15 @@ input[name=question] {
     color: black;
 }
 
+#whyJamaica h2 {
+    margin-bottom: 20px;
+}
+
 #group img {
-    height: auto;
+    height: 300px;
     width: auto; 
-    padding-right: 5.5vw;
+    /* padding-right: 5.5vw; */
+    float: center;
 }
 
 #group {
@@ -99,7 +104,7 @@ input[name=question] {
 }
 
 #group a {
-    font-size: 80px;
+    font-size: 50px;
     font-size: 9.8vw;
     padding-left: 20px;
     padding-top: 20px;
