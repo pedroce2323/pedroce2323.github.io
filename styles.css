@@ -9,6 +9,10 @@
     padding-left: 25px;
 }
 
+.jumbotron p {
+    font-family: 'Roboto', sans-serif;
+}
+
 .jumbotron .btn {
     margin-left: 25px;
 }
@@ -55,6 +59,11 @@ img {
    text-align: center;
 }
 
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
 #questionform {
     margin: 25px;
 }
@@ -77,8 +86,8 @@ input[name=question] {
 }
 
 #group img {
-    height: 375px;
-    width: 533px;
+    height: auto;
+    width: auto;
 }
 
 #group {
@@ -86,18 +95,25 @@ input[name=question] {
     background-color: lightskyblue;
 }
 
-#group h2 a {
-    font-size: 150px;
+#group a {
+    font-size: 80px;
+    font-size: 9.8vw;
     padding-left: 20px;
+    padding-top: 20px;
     color: black;
 }
 
-#bottomline {
-    margin: 40px;
+#group h2 {
+    padding-top: 2.5vw;
+}
+
+.bottomline {
+    margin-top: 40px;
+    margin-bottom: 40px;
     text-align: center;
 }
 
-#bottomline p {
+.bottomline p {
     color: slategray;
 }
 
