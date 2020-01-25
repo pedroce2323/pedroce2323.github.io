@@ -92,7 +92,8 @@ input[name=question] {
 }
 
 #group img {
-    height: 360px;
+    height: auto;
+    max-height: 400px;
     width: auto; 
     float: center;
 }
