@@ -90,7 +90,7 @@ input[name=question] {
 #group img {
     height: auto;
     width: auto;
-    /* padding-right: 5.5vw; */
+    padding-right: 5.5vw;
 }
 
 #group {
