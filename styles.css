@@ -92,7 +92,7 @@ input[name=question] {
 }
 
 #group img {
-    height: 375px;
+    height: 360px;
     width: auto; 
     float: center;
 }
@@ -126,4 +126,3 @@ input[name=question] {
 table {
     text-align: center;
 }
-    
