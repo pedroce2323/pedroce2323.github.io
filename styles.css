@@ -17,6 +17,11 @@
     margin-left: 25px;
 }
 
+#DAK {
+    background-color: black;
+    color: gold;
+}
+
 .navbar img {
     height: 30px;
     width:  60px;
